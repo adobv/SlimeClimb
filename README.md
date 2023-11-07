@@ -1,5 +1,3 @@
-# Slime Climb
-
 ![Menu background](https://github.com/adobv/SlimeClimb/assets/149056709/5b840e7b-b40c-4b57-bf57-2c7c96efc00f)
 ## Game Description
 
