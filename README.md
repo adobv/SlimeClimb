@@ -6,6 +6,6 @@ Warning: contains some surprising elements.
 
 ## Default Controls
 
-LEFT    [A]
-RIGHT   [D]
-JUMP    [SPACE]
+LEFT    A
+RIGHT   D
+JUMP    SPACE
