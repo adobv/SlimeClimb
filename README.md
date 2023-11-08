@@ -1,5 +1,12 @@
+![Menu background](https://github.com/adobv/SlimeClimb/assets/149056709/5b840e7b-b40c-4b57-bf57-2c7c96efc00f)
 ## Game Description
 
-Slime Climb is a 3d platformer / Speedrun / Frustrating game climb game designed to make your blood boil. You are a cute little slime stuck in a bottomless cave. With just your jumping and strafing abilities, you must perform meticulously precise jumps to reach the top. Stakes of falling is maddening, so be prepared for the worst. Compete against your friends to see who can reach the top quicker.
+Slime Climb is a **3D-platformer**/**Speedrun**/**Frustrating** climb game designed to make your blood boil. With just your jumping and strafing abilities, you must perform meticulously precise jumps to reach the top. Falling is maddening, so be prepared for the worst.
 
-Warning: contains some surprising elements.
+**Warning**: contains some surprising elements.
+
+## Default Controls
+
+- Left 	= A
+- Right = D
+- Jump 	= SPACE
